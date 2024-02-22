@@ -1401,6 +1401,7 @@ textarea.form-control, textarea.form-control:focus {
 
 /* --- Certificates --- */
 .certificate-item {
+  height: 200px;
   position: relative;
   display: table;
   table-layout: fixed;
